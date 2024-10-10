@@ -16,7 +16,7 @@ This project manages a database system for tracking user purchases of products, 
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/product-purchase-management.git
+    git clone https://github.com/alb1nut/Product-Purchase-Management-Database-System.git
     ```
 2. Import the SQL scripts into your PostgreSQL database.
 3. Use the provided queries to manage and analyze product purchases.
@@ -25,5 +25,3 @@ This project manages a database system for tracking user purchases of products, 
 - PostgreSQL or compatible SQL database.
 - Basic SQL knowledge to run queries.
 
-## License
-This project is licensed under the MIT License.
